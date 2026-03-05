@@ -19,3 +19,13 @@ body{
 .flex{
     display: flex;
 }
+
+.red{
+    padding-right: 180px;
+    background-color: rgb(255, 0, 0);
+}
+
+.green{
+    background-color: rgb(0, 255, 0);
+    padding-bottom: 150px;
+}
