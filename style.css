@@ -9,3 +9,9 @@ body{
     display: flex;
     align-items: flex-start;
 }
+
+.yo{
+    background-color: rgb(255, 251, 28);
+    padding: 50px;
+    margin: 10px;
+}
