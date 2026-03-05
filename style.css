@@ -15,3 +15,7 @@ body{
     padding: 50px;
     margin: 10px;
 }
+
+.flex{
+    display: flex;
+}
